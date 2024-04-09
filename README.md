@@ -12,3 +12,13 @@ This repository contains various aspects of ML such as algorithms, math, models 
     <li>K-Nearest Neighbours</li>
 </ul>
 </details>
+<details>
+<summary>Mathematics</summary>
+    <details>
+    <summary>Optimization</summary>
+        <ul>
+            <li>Intro To Optimization</li>
+        </ul>
+    </details>
+
+</details>
