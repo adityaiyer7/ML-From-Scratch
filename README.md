@@ -20,5 +20,11 @@ This repository contains various aspects of ML such as algorithms, math, models 
             <li>Intro To Optimization</li>
         </ul>
     </details>
+    <details>
+    <summary>Linear Algebra</summary>
+        <ul>
+            <li>Dot Product</li>
+        </ul>
+    </details>
 
 </details>
