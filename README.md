@@ -14,6 +14,7 @@ I try to make the math notes easy to read on their own and as annotated as I can
 <summary>Algorithms</summary>
 <ul>
     <li>K-Nearest Neighbours</li>
+    <li>Classification (definitions/introduction)</li>
 </ul>
 </details>
 <details>
