@@ -15,6 +15,8 @@ I try to make the math notes easy to read on their own and as annotated as I can
 <ul>
     <li>K-Nearest Neighbours</li>
     <li>Classification (definitions/introduction)</li>
+    <li>Centroid Method for classification</li>
+    <li>Perceptron Algorithm</li>
 </ul>
 </details>
 <details>
