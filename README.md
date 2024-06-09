@@ -20,18 +20,31 @@ I try to make the math notes easy to read on their own and as annotated as I can
 </ul>
 </details>
 <details>
-<summary>Mathematics</summary>
+    <summary>Math</summary>
+    <ul>
     <details>
-    <summary>Optimization</summary>
+        <summary>Linear Algebra</summary>
         <ul>
-            <li>Intro To Optimization</li>
+            <li> Dot Product</li>
         </ul>
     </details>
+    </ul>
+    <ul>
     <details>
-    <summary>Linear Algebra</summary>
+        <summary>Probability Theory</summary>
         <ul>
-            <li>Dot Product</li>
+            <li> Terminology</li>
+            <li> Equally Likely Outcomes</li>
         </ul>
     </details>
-
+    </ul>
+    <ul>
+    <details>
+        <summary>Optimization</summary>
+        <ul>
+            <li> Introduction to Optimization</li>
+        </ul>
+    </details>
+    </ul>
+    
 </details>
