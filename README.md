@@ -35,6 +35,12 @@ I try to make the math notes easy to read on their own and as annotated as I can
         <ul>
             <li> Terminology</li>
             <li> Equally Likely Outcomes</li>
+            <li> Balls in Bins</li>
+            <li> Exponential Approximation</li>
+            <li> Birthday problem</li>
+            <li> Addition</li>
+            <li> Multiplication</li>
+            <li> Bayes Theorem</li>
         </ul>
     </details>
     </ul>
